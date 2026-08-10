@@ -1,5 +1,5 @@
 ## Next-Blog-mvp
-Aplicativo de Blog Pessoal com data fetching em Next 16 com banco de dados SQLite. 
+Aplicativo de Blog Pessoal em Next 16 com banco de dados SQLite. 
 
 #### 🎨 Aqui está uma demonstração do projeto
 https://next-blog-mvp.onrender.com/
