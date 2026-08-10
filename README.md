@@ -4,6 +4,13 @@ Aplicativo de Blog Pessoal com data fetching em Next 16 com banco de dados SQLit
 #### 🎨 Aqui está uma demonstração do projeto
 https://next-blog-mvp.onrender.com/
 
+#### 📋 O que voçê vai ver nesse Projeto
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **Dynamic Route**  | Rota Dinâmica é o caminho completo de um endereço que aceita partes variáveis |
+| **libSQL**  | Driver de banco de dados SQLite usado para conectar, inserir, atualizar e consultar dados SQL. |
+
+
 #### 🔄 Executar a aplicação
 - Recuperar as dependencias do projeto node_modules .
 ```bash
