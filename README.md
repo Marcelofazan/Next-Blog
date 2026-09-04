@@ -1,4 +1,4 @@
-## Next-Blog-mvp
+## Next-Blog
 Exemplo de site Blog Pessoal em Next 16 com banco de dados SQLite.
 
 #### 🎨 Aqui está uma demonstração do projeto
